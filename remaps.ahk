@@ -29,7 +29,7 @@
 >+SC00D::Insert
 >+SC02B::Delete
 
-; -- typography shortcuts --
+; -- other symbols and punctuation --
 
 ; em dash
 !-::Send "—"
@@ -39,3 +39,6 @@
 
 ; ellipses
 !.::Send "…"
+
+; long s
+!s::Send "ſ"
