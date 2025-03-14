@@ -68,8 +68,8 @@
 !0::Send "º"
 !-::Send "–"
 !=::Send "‚"
-![::Send "'"
-!]::Send '"'
+![::Send "“"
+!]::Send "‘"
 !\::Send "«"
 !'::Send "æ"
 !,::Send "≤"
